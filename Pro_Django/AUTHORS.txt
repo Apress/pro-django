@@ -1,0 +1,8 @@
+This code comes from Pro Django, published by Apress, Inc.
+in December 2008. The author of the book and primary author
+of the code is Marty Alchin <marty@martyalchin.com>, who
+may be found online at <http://martyalchin.com/>.
+
+As part of the technical review process, additional code
+modifications were provided by the technical reviewer,
+George Vilches <gav@thataddress.com>.
